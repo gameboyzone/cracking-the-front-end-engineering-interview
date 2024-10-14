@@ -1,7 +1,7 @@
 # Cracking the Frontend or UI Engineering Interview
-This repo offers supporting materials from my published book chapter on "Cracking the Frontend or UI Engineering Interview". 
+This repo offers supporting materials from my book chapter on "Cracking the Frontend or UI Engineering Interview".
 
-Book chapter: *Awaiting book publishing*
+Book chapter status: *Awaiting book publishing*
 
 ## Resources
 1. JavaScript Essentials
