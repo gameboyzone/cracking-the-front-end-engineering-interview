@@ -1,5 +1,5 @@
-# Cracking the Frontend Engineering Interview
-This repo offers supporting materials from my published book chapter on "Cracking the Frontend Engineering Interview". 
+# Cracking the Frontend or UI Engineering Interview
+This repo offers supporting materials from my published book chapter on "Cracking the Frontend or UI Engineering Interview". 
 
 Book chapter: *Awaiting book publishing on Amazon*
 
