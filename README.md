@@ -1,5 +1,5 @@
-# Cracking the Front End Engineering Interview
-This repo offers supporting materials from my published book chapter on "Cracking the Front End Engineering Interview". 
+# Cracking the Frontend Engineering Interview
+This repo offers supporting materials from my published book chapter on "Cracking the Frontend Engineering Interview". 
 
 Book chapter: *Awaiting book publishing on Amazon*
 
@@ -10,7 +10,7 @@ Book chapter: *Awaiting book publishing on Amazon*
 - Jacinto Wong. (2024, February 5). Top 30 JavaScript Interview Questions + Answers (with Code Snippets). Zero To Mastery. https://zerotomastery.io/blog/frontend-javascript-interview-questions/
 - Yan Levin. (2023, August 28). 52 Frontend Interview Questions—JavaScript. DEV Community. https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6
 
-2. Front End Development Technologies
+2. Frontend Development Technologies
 - Aayushi. (2023, September 7). Mastering Web Development: The Top Front-End Frameworks for 2023. DEW Studio Blogs. https://blog.dewstudio.io/mastering-web-development-the-top-front-end-frameworks-for-2023/
 - Amundra. (2023, April 10). Best 10 Front-end Technologies for Web Development (2023)—Studytonight. https://www.studytonight.com/post/best-10-frontend-technologies-for-web-development
 - Cordenne Brewster. (2021, January 28). 11 Best Front-End Technologies To Use In 2024 | Trio Developers. https://www.trio.dev/front-end/resources/front-end-technologies
