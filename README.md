@@ -47,4 +47,4 @@ Book chapter: *Awaiting book publishing*
 - Brad Frost. (n.d.). Atomic Design by Brad Frost. Retrieved October 14, 2024, from http://atomicdesign.bradfrost.com/
 - Ben Farrell. (2019). Web Components in Action. https://www.manning.com/books/web-components-in-action
 - Therese Fessenden. (2021, April 11). Design Systems 101. Nielsen Norman Group. https://www.nngroup.com/articles/design-systems-101/
-- Jadhwani, P. (2019). Getting Started with Web Components: Build modular and reusable components using HTML, CSS and JavaScript.
+- Jadhwani, P. (2019). Getting Started with Web Components: Build modular and reusable components using HTML, CSS and JavaScript. https://www.amazon.com/Getting-Started-Web-Components-components/dp/1838649239
