@@ -1,7 +1,7 @@
 # Cracking the Frontend or UI Engineering Interview
 This repo offers supporting materials from my published book chapter on "Cracking the Frontend or UI Engineering Interview". 
 
-Book chapter: *Awaiting book publishing on Amazon*
+Book chapter: *Awaiting book publishing*
 
 ## Resources
 1. JavaScript Essentials
@@ -40,9 +40,11 @@ Book chapter: *Awaiting book publishing on Amazon*
 - Workloudly. (2023, June 15). Mastering Frontend Interviews: Comprehensive Guide with Q&A’s. Jeffrey’s Blog. https://www.workloudly.com/blogs/frontend-interview-guide/
 
 7. Additional topics: Web Accessibility 
-- Shah, H. (2024). Enhancing Web Accessibility—Navigating the Upgrade of Design Systems from WCAG 2.0 to WCAG 2.1. International Journal of Web & Semantic Technology, 15(1), 16. https://doi.org/10.5121/ijwest.2024.15101
-- Shah, H. (2023c). Harnessing Web Accessibility Tools for WCAG 2.1 Migration of a Design System. 2023 International Conference on Computing, Networking, Telecommunications & Engineering Sciences Applications (CoNTESA), 54–60. https://doi.org/10.1109/CoNTESA61248.2023.10384953
+- Free Website Accessibility Test | Check Your Website’s Accessibility. (n.d.). Dequeue. Retrieved October 14, 2024, from https://www.deque.com/free-accessibility-test/
+- Sharma, N. (2021, June 10). Web accessibility Interview questions guide. Medium. https://hellonehha.medium.com/web-accessibility-interview-questions-guide-ac4fcf61cbf5
 
 8. Additional topics: Design Systems and HTML5 Web Components API
-- Shah, H., & Kamuni, N. (2023). DesignSystemsJS - Building a Design Systems API for aiding standardization and AI integration. 2023 International Conference on Computing, Networking, Telecommunications & Engineering Sciences Applications (CoNTESA), 83–89. https://doi.org/10.1109/CoNTESA61248.2023.10384889
-- Shah, Hardik. (2024). ‪Advancing Web Development—Enhancing Component-Based Software Engineering and Design Systems through HTML5 Customized Built-in elements‬. International Journal of Web & Semantic Technology, 2024‬, 15(1), 15. https://doi.org/10.5121/ijwest.2024.15102
+- Brad Frost. (n.d.). Atomic Design by Brad Frost. Retrieved October 14, 2024, from http://atomicdesign.bradfrost.com/
+- Ben Farrell. (2019). Web Components in Action. https://www.manning.com/books/web-components-in-action
+- Therese Fessenden. (2021, April 11). Design Systems 101. Nielsen Norman Group. https://www.nngroup.com/articles/design-systems-101/
+- Jadhwani, P. (2019). Getting Started with Web Components: Build modular and reusable components using HTML, CSS and JavaScript.
