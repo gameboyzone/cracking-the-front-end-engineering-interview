@@ -52,3 +52,39 @@ Book chapter status: *Awaiting book publishing*
 - Ben Farrell. (2019). Web Components in Action. https://www.manning.com/books/web-components-in-action
 - Therese Fessenden. (2021, April 11). Design Systems 101. Nielsen Norman Group. https://www.nngroup.com/articles/design-systems-101/
 - Jadhwani, P. (2019). Getting Started with Web Components: Build modular and reusable components using HTML, CSS and JavaScript. https://www.amazon.com/Getting-Started-Web-Components-components/dp/1838649239
+
+----------------------------------------------------------------
+
+## Helpful Resources unrelated to the book chapter
+
+► Roadmaps & Project-Based Learning 
+- Developer Roadmap → https://lnkd.in/g_PGUvVX 
+- Project-Based Learning → https://lnkd.in/gFFuHsRs 
+- Build Your Own X → https://lnkd.in/g4cWqgjA 
+
+► Coding Interview Preparation 
+- Coding Interview University → https://lnkd.in/gbhtV-Zn 
+- Tech Interview Handbook → https://lnkd.in/gbE2x95p 
+- Awesome Interview Questions → https://lnkd.in/gnrriMyb 
+- Front-End Interview Handbook → https://lnkd.in/gw4kZaQu 
+- Javascript Algorithm Implementations → https://lnkd.in/gu324JHD 
+- Python Algorithm Implementations → https://lnkd.in/gD_sDQC6 
+- Hiring Without Whiteboards → https://lnkd.in/gGYnBwz8 
+
+►  System Design & Architecture 
+- System Design Primer → https://lnkd.in/gmTP7kwc 
+- System Design 101 → https://lnkd.in/gyDYHhpF 
+- Low-Level Design Primer → https://lnkd.in/g4aVVDue 
+- Awesome System Design Resources → https://lnkd.in/gEX9FCaU 
+- System Design Questions → https://lnkd.in/gzDhrk-J 
+- Complete System Design → https://lnkd.in/gxD2QpW8 
+- Mobile System Design → https://lnkd.in/gqstsBSp 
+- System Design & Architecture → https://lnkd.in/gTBcfjU5 
+- Low-Level Design Guide → https://lnkd.in/gSPXTmkp 
+
+►  Job-Specific Resources 
+- Summer 2025 Internships → https://lnkd.in/g8sJvQES 
+- CheckCheckZZ System Design Interview → https://lnkd.in/gNcysRuy 
+- Shashank88 System Design → https://lnkd.in/gA-kXWXW 
+- Grokking System Design → https://lnkd.in/gpev3Upv 
+- CodersGuild System Design → https://lnkd.in/gcR8fC_a 
